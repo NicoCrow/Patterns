@@ -1,6 +1,7 @@
 Observer
 ========
 
+
 ## Definition
 
 Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
@@ -39,6 +40,7 @@ The Click object represents the Subject. The clickHandler function is the subscr
 Notice that the fire method accepts two arguments. The first one has details about the event and the second one is the context, that is, the this value for when the eventhandlers are called. If no context is provided this will be bound to the global object (window).
 
 The log function is a helper which collects and displays results.
+
 
 ```javascript
 function Click(){
@@ -101,4 +103,4 @@ function run(){
 }
 ```
 
-Source: [dofactory.com](http://www.dofactory.com/javascript/observer-design-pattern)
+Source: [dofactory.com](http://www.dofactory.com/javascript/observer-design-pattern){:target="_blank"}
