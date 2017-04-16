@@ -1,3 +1,4 @@
 JS Patterns
 ===========
 
+* [Observer](./Observer)

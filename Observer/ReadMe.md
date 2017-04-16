@@ -24,11 +24,11 @@ The event and event-handler paradigm in JavaScript is the manifestation of the O
 
 The objects participating in this pattern are:
 
-- *Subject* -- In sample code: _Click_
+- **Subject** -- In sample code: _Click_
     * maintains list of observers. Any number of Observer objects may observe a Subject
     * implements an interface that lets observer objects subscribe or unsubscribe
     * sends a notification to its observers when its state changes
-- *Observers* -- In sample code: _clickHandler_
+- **Observers** -- In sample code: _clickHandler_
     * has a function signature that can be invoked when Subject changes (i.e. event occurs)
 
 
