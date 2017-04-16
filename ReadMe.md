@@ -1,7 +1,7 @@
 JS Patterns
 ===========
 
-* [Module](./Module)
+<!-- * [Module](./Module) -->
 * [Prototype](./Prototype)
 * [Observer](./Observer)
 * [Singleton](./Singleton)
