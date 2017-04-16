@@ -70,4 +70,4 @@ function run(){
 }
 ```
 
-Source: [dofactory.com](http://www.dofactory.com/javascript/observer-design-pattern){:target="_blank"}
+Source: [dofactory.com](http://www.dofactory.com/javascript/singleton-design-pattern)
